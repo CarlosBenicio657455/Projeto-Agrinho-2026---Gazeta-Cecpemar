@@ -1,0 +1,50 @@
+@font-face { 
+
+    font-family: 'Chomsky';
+    src: url('fonts/Chomsky.otf') format('opentype');
+
+} 
+
+.pagina {
+
+    display: none; 
+    margin-left:25%; 
+    margin-right:25%; 
+    width:50%; 
+    align-self: center; 
+    justify-content: center; 
+    align-items: center; 
+
+} 
+
+.ativa { 
+
+    display: flex; 
+
+}
+
+.titulo { 
+    
+    margin-left:25%; 
+    margin-right:25%; 
+
+} 
+
+.titulo1 { 
+    
+    text-align: center; 
+    font-family:'Chomsky'; 
+
+} 
+
+.data { 
+    
+    text-align: left;
+
+} 
+
+.numeracao{ 
+    
+    text-align: right; 
+
+}
